@@ -8,3 +8,7 @@ venv/
 # 파이썬 컴파일 파일 숨기기
 __pycache__/
 *.pyc
+
+# 데이터베이스 숨기기
+osu_bot
+.db
