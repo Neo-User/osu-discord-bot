@@ -10,5 +10,4 @@ __pycache__/
 *.pyc
 
 # 데이터베이스 숨기기
-osu_bot
-.db
+osu_bot.db
